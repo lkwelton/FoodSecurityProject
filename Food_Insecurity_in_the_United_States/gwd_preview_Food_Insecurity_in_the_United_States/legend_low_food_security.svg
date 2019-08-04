@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30" viewBox="0 0 150 30">
+  <g id="Group_1" data-name="Group 1" transform="translate(-567 -413)">
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(586 428)" fill="#fff" stroke="#707070" stroke-width="0.5" opacity="0.8">
+      <rect width="16" height="11" stroke="none"/>
+      <rect x="0.25" y="0.25" width="15.5" height="10.5" fill="none"/>
+    </g>
+    <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(602 428)" fill="#fce1c0" stroke="#707070" stroke-width="0.5">
+      <rect width="16" height="11" stroke="none"/>
+      <rect x="0.25" y="0.25" width="15.5" height="10.5" fill="none"/>
+    </g>
+    <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(618 428)" fill="#f9c382" stroke="#707070" stroke-width="0.5">
+      <rect width="16" height="11" stroke="none"/>
+      <rect x="0.25" y="0.25" width="15.5" height="10.5" fill="none"/>
+    </g>
+    <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(634 428)" fill="#f5a543" stroke="#707070" stroke-width="0.5">
+      <rect width="16" height="11" stroke="none"/>
+      <rect x="0.25" y="0.25" width="15.5" height="10.5" fill="none"/>
+    </g>
+    <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(650 428)" fill="#f28704" stroke="#707070" stroke-width="0.5">
+      <rect width="16" height="11" stroke="none"/>
+      <rect x="0.25" y="0.25" width="15.5" height="10.5" fill="none"/>
+    </g>
+    <text id="_6.0_" data-name="6.0%" transform="translate(567 428)" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="1.025" y="8">6.0%</tspan></text>
+    <text id="_21.0_" data-name="21.0%" transform="translate(666 428)" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="2.279" y="8">21.0%</tspan></text>
+    <text id="Households_with_low_food_security" data-name="Households with low food security" transform="translate(567 413)" font-size="8" font-family="Roboto-Regular, Roboto"><tspan x="0" y="8">Households with low food security</tspan></text>
+  </g>
+</svg>
